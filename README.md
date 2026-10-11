@@ -36,7 +36,7 @@ Android Developer with a strong foundation in **Kotlin** and **Jetpack Compose**
 ---
 
 ### 📬 Connect with Me
-
+* 📧 **Email:** felchyn.mykola@gmail.com
 * 💼 **LinkedIn:** [linkedin.com/in/mykola-felchyn](https://www.linkedin.com/in/mykola-felchyn/)
 * 💬 **Telegram:** [@amt0r](https://t.me/amt0r)
 * 🧩 **LeetCode:** [leetcode.com/u/amt0r](https://leetcode.com/u/amt0r/)
